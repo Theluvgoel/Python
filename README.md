@@ -31,5 +31,8 @@ Module is like a code library which can be used to borrow code written by somebo
 The pip command
 It can be used as a package manager pip to install a python module. Lets install a module called pandas using the following command
 
-'''pip install pandas'''
+**Our First Program**
+Let's write our first ever python program from scratch. It will consist of a bunch of print statements. print can be used to print something on the console in python.
+
+print("Your poem here")
 
