@@ -30,5 +30,6 @@ Module is like a code library which can be used to borrow code written by somebo
 
 The pip command
 It can be used as a package manager pip to install a python module. Lets install a module called pandas using the following command
-'''pip install pandas
+
+'''pip install pandas'''
 
